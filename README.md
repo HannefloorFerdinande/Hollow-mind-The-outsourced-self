@@ -37,3 +37,4 @@ Maak gebruik van bronverwijzingen bij claims die je maakt (vb. een stelling als 
 11. [Licentie](/docs/licentie.md)
 
  [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+
